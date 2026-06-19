@@ -82,12 +82,12 @@ cortes_aysa.log - execution log (timestamps, errors, completion status).
 Project Structure
 
 cortes_aysa/
-|-- cortes_aysa.py        # Main script
-|-- requirements.txt      # Python dependencies
-|-- .env                  # Local environment variables (not committed)
-|-- cortes_aysa.log       # Generated execution log (created on execution)
-|-- aysa_results.json     # Generated output (latest query result)
-|-- README.md
+├── cortes_aysa.py        # Main script
+├── requirements.txt      # Python dependencies
+├── .env                  # Local environment variables (not committed)
+├── cortes_aysa.log       # Generated execution log (created on execution)
+├── aysa_results.json     # Generated output (latest query result)
+└── README.md
 
 Future Improvements
 
