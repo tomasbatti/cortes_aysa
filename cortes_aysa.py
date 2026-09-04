@@ -8,7 +8,8 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-
+def prueba():
+    return "Hola"
 
 load_dotenv() 
 
