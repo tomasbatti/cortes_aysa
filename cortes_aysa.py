@@ -8,10 +8,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-def prueba():
-    prueba_2 = "Chau"
-    return "Hola"
-
 load_dotenv() 
 
 logging.basicConfig(
